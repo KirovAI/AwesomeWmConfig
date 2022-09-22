@@ -10,6 +10,6 @@ Requires:
 * nitrogen
 
 
-*Features: 
+Features: 
 
 Excellent GUI experiense
