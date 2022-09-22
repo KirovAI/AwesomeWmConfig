@@ -5,9 +5,9 @@ Requires:
 
 * rofi
 
-*picom
+* picom
 
-*nitrogen
+* nitrogen
 
 
 *Features: 
