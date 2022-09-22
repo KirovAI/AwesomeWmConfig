@@ -11,7 +11,7 @@ Requires:
 
 * AudioPlayer (better pulseAudio) and audiodriver
 
-* Some icons for the program (the should installed by default)
+* Some icons for the program (they should installed by default)
 
 Features: 
 
